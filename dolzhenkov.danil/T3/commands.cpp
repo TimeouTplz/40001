@@ -8,7 +8,7 @@
 #include <limits>
 #include <cstddef>
 #include "commands.h"
-#include "Polygon.h"
+#include "polygon.h"
 
 using namespace std::placeholders;
 

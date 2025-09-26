@@ -7,7 +7,7 @@
 #include <limits>
 
 #include "commands.h"
-#include "Polygon.h"
+#include "polygon.h"
 
 int main(int argc, char* argv[])
 {

@@ -5,7 +5,7 @@
 #include <vector>
 #include <string>
 
-#include "Polygon.h"
+#include "polygon.h"
 
 std::istream& operator>>(std::istream& in, Point& point);
 std::istream& operator>>(std::istream& in, Polygon& polygon);
